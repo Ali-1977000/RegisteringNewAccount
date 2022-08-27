@@ -1,0 +1,30 @@
+2022-08-27 20:21:48.519 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-08-27 20:22:19.947 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
+2022-08-27 20:35:57.486 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-08-27 20:36:03.522 [main] INFO  stepDefinition.Hooks - User navigate to the website
+2022-08-27 20:36:07.570 [main] INFO  stepDefinition.Hooks - User clicks the register button
+2022-08-27 20:36:13.312 [main] INFO  stepDefinition.Hooks - User enters the name
+2022-08-27 20:36:13.605 [main] INFO  stepDefinition.Hooks - User enters Email Address
+2022-08-27 20:36:13.902 [main] INFO  stepDefinition.Hooks - User enters Password
+2022-08-27 20:36:14.155 [main] INFO  stepDefinition.Hooks - User enters Confirm Password
+2022-08-27 20:36:14.349 [main] INFO  stepDefinition.Hooks - User selects United Kingdom
+2022-08-27 20:36:14.578 [main] INFO  stepDefinition.Hooks - User enters First Name
+2022-08-27 20:36:14.737 [main] INFO  stepDefinition.Hooks - User enters Last Name
+2022-08-27 20:36:14.944 [main] INFO  stepDefinition.Hooks - User Clicks Privacy Policy For Details CheckBox
+2022-08-27 20:36:15.115 [main] INFO  stepDefinition.Hooks - User clicks the second check box about Terms of Service
+2022-08-27 20:36:15.291 [main] INFO  stepDefinition.Hooks - User clicks the CAPTCHA check box
+2022-08-27 20:36:25.349 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
+2022-08-27 20:38:26.424 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-08-27 20:38:32.718 [main] INFO  stepDefinition.RegisterStepDef - User navigate to the website
+2022-08-27 20:38:37.115 [main] INFO  stepDefinition.RegisterStepDef - User clicks the register button
+2022-08-27 20:38:42.933 [main] INFO  stepDefinition.RegisterStepDef - User enters the name
+2022-08-27 20:38:43.231 [main] INFO  stepDefinition.RegisterStepDef - User enters Email Address
+2022-08-27 20:38:43.600 [main] INFO  stepDefinition.RegisterStepDef - User enters Password
+2022-08-27 20:38:43.877 [main] INFO  stepDefinition.RegisterStepDef - User enters Confirm Password
+2022-08-27 20:38:44.078 [main] INFO  stepDefinition.RegisterStepDef - User selects United Kingdom
+2022-08-27 20:38:44.352 [main] INFO  stepDefinition.RegisterStepDef - User enters First Name
+2022-08-27 20:38:44.641 [main] INFO  stepDefinition.RegisterStepDef - User enters Last Name
+2022-08-27 20:38:44.907 [main] INFO  stepDefinition.RegisterStepDef - User Clicks Privacy Policy For Details CheckBox
+2022-08-27 20:38:45.093 [main] INFO  stepDefinition.RegisterStepDef - User clicks the second check box about Terms of Service
+2022-08-27 20:38:45.282 [main] INFO  stepDefinition.RegisterStepDef - User clicks the CAPTCHA check box
+2022-08-27 20:38:55.332 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
