@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
 
         features = "src/test/resources/features",
         glue = "stepDefinition",
-        dryRun =false,
+        dryRun = false,
         tags = "@register"
 
 )
