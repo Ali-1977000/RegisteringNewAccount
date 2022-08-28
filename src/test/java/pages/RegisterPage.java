@@ -43,12 +43,12 @@ public class RegisterPage {
     @FindBy(xpath = "//input[@id='fragment-46_acceptAgreement']")
     public WebElement termsOfServiceCheckBox;
 
-    @FindBy(xpath= "//div[@id='rc-anchor-container']/div[3]/div/div/div/span")
+    @FindBy(xpath = "//div[@id='rc-anchor-container']/div[3]/div/div/div/span")
     //@FindBy(className = "recaptcha-checkbox-checkmark")
     public WebElement captchaCheckBox;
 
     //@FindBy(css = ".internal-link.create-account.submit-button.button")
-  // @FindBy(xpath = "//a[@class='internal-link create-account submit-button button']")
+    // @FindBy(xpath = "//a[@class='internal-link create-account submit-button button']")
     @FindBy(xpath = "(//ul[@class='field-list'])[2]/li[7]/span/a")
     public WebElement joinNowButton;
 

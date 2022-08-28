@@ -26,7 +26,6 @@ public class RegisterStepDef {
     Faker faker = new Faker();
     String name = faker.name().firstName();
     String lastName = faker.name().lastName();
-    String password = faker.internet().password();
     String email = faker.internet().emailAddress();
 
 
@@ -51,7 +50,7 @@ public class RegisterStepDef {
     public void user_enters_the_name() {
 
         logger.info("User enters the name");
-        registerPage.signInNameBox.sendKeys(name);
+        registerPage.signInNameBox.sendKeys(name + "-" + name);
 
     }
 
@@ -65,7 +64,7 @@ public class RegisterStepDef {
     @When("user enters Password")
     public void user_enters_password() {
         logger.info("User enters Password");
-        registerPage.passwordBox.sendKeys(password);
+        registerPage.passwordBox.sendKeys("Test12345");
 
     }
 
@@ -74,7 +73,7 @@ public class RegisterStepDef {
 
         logger.info("User enters Confirm Password");
 
-        registerPage.confirmPasswordBox.sendKeys(password);
+        registerPage.confirmPasswordBox.sendKeys("Test12345");
 
     }
 
@@ -116,10 +115,10 @@ public class RegisterStepDef {
         registerPage.termsOfServiceCheckBox.click();
 
     }
-/*NOTE: I have commented out that part because it can not be automated. If you will run the script in your
-* pre-production environment, you will not have "CAPTCHA check box". I didn't delete it in order to show you that
-* I can also find the locators and click with selenium. But after clicking it asks to user to select some pictures.
-* This part can not be automated*/
+    /*NOTE: I have commented out that part because it can not be automated. If you will run the script in your
+     * pre-production environment, you will not have "CAPTCHA check box". I didn't delete it in order to show you that
+     * I can also find the locators and click with selenium. But after clicking it asks to user to select some pictures.
+     * This part can not be automated*/
 
   /*  @When("user clicks the CAPTCHA check box")
     public void user_clicks_the_captcha_check_box() {
@@ -138,7 +137,7 @@ public class RegisterStepDef {
     }
 
     @Then("user verifies {string} message")
-    public void userVerifiesMessage(String Expectedmessage){
+    public void userVerifiesMessage(String Expectedmessage) {
         logger.info("User verifies \"Welcome to the communityYour account has been created and you are signed in.\" message");
         MyUtlities.sleep(20);
         Assert.assertEquals(Expectedmessage, registerPage.verficationMessage.getText());
