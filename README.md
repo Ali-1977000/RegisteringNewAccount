@@ -27,8 +27,4 @@
  - Hooks class is created in order to implement some cucumber annotations such as Before, After, 
    beforestep, afterstep to create outline for the scenarios.
  
- - The "maven-cucumber-reporting" plugin is used for creating "cucumber-html-reports" under target 
-   folder. 
  
-  – It includes pie-charts, matrixes on which tests are passing and failing. Even has the option to 
-    show what percentage of which tags are failing and passing.
