@@ -13,6 +13,6 @@ Feature: registering a new account
     And user enters Last Name
     And user clicks privacy Policy For Details CheckBox
     And user clicks the second check box about Terms of Service
-    And user clicks the CAPTCHA check box
+    #And user clicks the CAPTCHA check box
     And user clicks Join now
     Then user verifies "Welcome to the community! Your account has been created and you are signed in." message

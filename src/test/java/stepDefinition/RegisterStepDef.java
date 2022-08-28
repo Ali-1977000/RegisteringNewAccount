@@ -7,7 +7,11 @@ import org.apache.logging.log4j.Logger;
 import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.ExpectedCondition;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import pages.RegisterPage;
 import utilities.ConfigurationReader;
 import utilities.Driver;
@@ -98,7 +102,7 @@ public class RegisterStepDef {
 
     }
 
-    @And("user clicks privacyPolicyForDetailsCheckBox")
+    @And("user clicks privacy Policy For Details CheckBox")
     public void userClicksPrivacyPolicyForDetailsCheckBox() {
         logger.info("User Clicks Privacy Policy For Details CheckBox");
 
@@ -112,28 +116,31 @@ public class RegisterStepDef {
         registerPage.termsOfServiceCheckBox.click();
 
     }
+/*NOTE: I have commented out that part because it can not be automated. If you will run the script in your
+* pre-production environment, you will not have "CAPTCHA check box". I didn't delete it in order to show you that
+* I can also find the locators and click with selenium. But after clicking it asks to user to select some pictures.
+* This part can not be automated*/
 
-    @When("user clicks the CAPTCHA check box")
+  /*  @When("user clicks the CAPTCHA check box")
     public void user_clicks_the_captcha_check_box() {
         logger.info("User clicks the CAPTCHA check box");
 
-        registerPage.captchaCheckBox.click();
-
-    }
+        MyUtlities.sleep(20);
+      registerPage.captchaCheckBox.click();
+ }*/
 
     @When("user clicks Join now")
-    public void user_clicks_join_now() {
+    public void user_clicks_join_now() throws InterruptedException {
+        MyUtlities.sleep(20);
         logger.info("User clicks Join now");
         registerPage.joinNowButton.click();
-
-
+        Thread.sleep(3000);
     }
 
-
     @Then("user verifies {string} message")
-    public void userVerifiesMessage(String Expectedmessage) {
+    public void userVerifiesMessage(String Expectedmessage){
         logger.info("User verifies \"Welcome to the communityYour account has been created and you are signed in.\" message");
-
+        MyUtlities.sleep(20);
         Assert.assertEquals(Expectedmessage, registerPage.verficationMessage.getText());
     }
 }

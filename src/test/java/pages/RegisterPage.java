@@ -43,15 +43,18 @@ public class RegisterPage {
     @FindBy(xpath = "//input[@id='fragment-46_acceptAgreement']")
     public WebElement termsOfServiceCheckBox;
 
-    //@FindBy(xpath= "//div[@id='rc-anchor-container']/div[3]/div/div/div/span")
-    @FindBy(className = "recaptcha-checkbox-checkmark")
+    @FindBy(xpath= "//div[@id='rc-anchor-container']/div[3]/div/div/div/span")
+    //@FindBy(className = "recaptcha-checkbox-checkmark")
     public WebElement captchaCheckBox;
 
-    @FindBy(xpath = "//a[@class='internal-link create-account submit-button button']")
+    //@FindBy(css = ".internal-link.create-account.submit-button.button")
+  // @FindBy(xpath = "//a[@class='internal-link create-account submit-button button']")
+    @FindBy(xpath = "(//ul[@class='field-list'])[2]/li[7]/span/a")
     public WebElement joinNowButton;
 
 
-    @FindBy(xpath = "//*[@id=\"fragment-66007643\"]/div[1]/fieldset/p[1]")
+    //@FindBy(xpath = "//*[@id=\"fragment-46\"]/div[1]/form/fieldset/ul/li[7]/span/a")
+    @FindBy(xpath = "//div[@id='_p_page']//p[1]")
     public WebElement verficationMessage;
 
     @FindBy(id = "onetrust-accept-btn-handler")
