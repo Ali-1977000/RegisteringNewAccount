@@ -15,3 +15,6 @@
         </Root>
     </Loggers>
 </Configuration>
+
+<!--Apache Log4j2 is the new version of the log4j and is used for printing logs when used in a Java program -->
+<!-- for quick reference to log statements in multiple log files -->
