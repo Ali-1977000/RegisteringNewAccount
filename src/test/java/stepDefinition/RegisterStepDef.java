@@ -125,17 +125,17 @@ public class RegisterStepDef {
  }*/
 
     @When("user clicks Join now")
-    public void user_clicks_join_now() throws InterruptedException {
+    public void user_clicks_join_now()  {
         MyUtlities.sleep(20);
         logger.info("User clicks Join now");
         registerPage.joinNowButton.click();
-        Thread.sleep(3000);
+
     }
 
     @Then("user verifies {string} message")
     public void userVerifiesMessage(String Expectedmessage) {
         logger.info("User verifies \"Welcome to the communityYour account has been created and you are signed in.\" message");
-        MyUtlities.sleep(20);
+        MyUtlities.sleep(5);
         Assert.assertEquals(Expectedmessage, registerPage.verficationMessage.getText());
     }
 }
