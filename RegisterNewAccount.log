@@ -1,0 +1,193 @@
+2022-08-30 14:44:58.014 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-08-30 14:45:05.207 [main] INFO  stepDefinition.RegisterStepDef - User navigate to the website
+2022-08-30 14:45:08.741 [main] INFO  stepDefinition.RegisterStepDef - User clicks the register button
+2022-08-30 14:45:14.398 [main] INFO  stepDefinition.RegisterStepDef - User enters the name
+2022-08-30 14:45:14.653 [main] INFO  stepDefinition.RegisterStepDef - User enters Email Address
+2022-08-30 14:45:14.879 [main] INFO  stepDefinition.RegisterStepDef - User enters Password
+2022-08-30 14:45:15.069 [main] INFO  stepDefinition.RegisterStepDef - User enters Confirm Password
+2022-08-30 14:45:15.237 [main] INFO  stepDefinition.RegisterStepDef - User selects United Kingdom
+2022-08-30 14:45:15.437 [main] INFO  stepDefinition.RegisterStepDef - User enters First Name
+2022-08-30 14:45:15.581 [main] INFO  stepDefinition.RegisterStepDef - User enters Last Name
+2022-08-30 14:45:15.745 [main] INFO  stepDefinition.RegisterStepDef - User Clicks Privacy Policy For Details CheckBox
+2022-08-30 14:45:15.902 [main] INFO  stepDefinition.RegisterStepDef - User clicks the second check box about Terms of Service
+2022-08-30 14:45:36.074 [main] INFO  stepDefinition.RegisterStepDef - User clicks Join now
+2022-08-30 14:45:43.341 [main] INFO  stepDefinition.RegisterStepDef - User verifies "Welcome to the communityYour account has been created and you are signed in." message
+2022-08-30 14:46:03.413 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
+2022-08-30 14:48:41.922 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-08-30 14:48:46.876 [main] INFO  stepDefinition.RegisterStepDef - User navigate to the website
+2022-08-30 14:48:51.854 [main] INFO  stepDefinition.RegisterStepDef - User clicks the register button
+2022-08-30 14:48:57.385 [main] INFO  stepDefinition.RegisterStepDef - User enters the name
+2022-08-30 14:48:57.725 [main] INFO  stepDefinition.RegisterStepDef - User enters Email Address
+2022-08-30 14:48:57.980 [main] INFO  stepDefinition.RegisterStepDef - User enters Password
+2022-08-30 14:48:58.172 [main] INFO  stepDefinition.RegisterStepDef - User enters Confirm Password
+2022-08-30 14:48:58.337 [main] INFO  stepDefinition.RegisterStepDef - User selects United Kingdom
+2022-08-30 14:48:58.511 [main] INFO  stepDefinition.RegisterStepDef - User enters First Name
+2022-08-30 14:48:58.656 [main] INFO  stepDefinition.RegisterStepDef - User enters Last Name
+2022-08-30 14:48:58.829 [main] INFO  stepDefinition.RegisterStepDef - User Clicks Privacy Policy For Details CheckBox
+2022-08-30 14:48:58.959 [main] INFO  stepDefinition.RegisterStepDef - User clicks the second check box about Terms of Service
+2022-08-30 14:49:19.078 [main] INFO  stepDefinition.RegisterStepDef - User clicks Join now
+2022-08-30 14:49:20.513 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
+2022-08-30 14:54:49.895 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-08-30 14:54:54.897 [main] INFO  stepDefinition.RegisterStepDef - User navigate to the website
+2022-08-30 14:54:58.238 [main] INFO  stepDefinition.RegisterStepDef - User clicks the register button
+2022-08-30 14:55:03.626 [main] INFO  stepDefinition.RegisterStepDef - User enters the name
+2022-08-30 14:55:03.902 [main] INFO  stepDefinition.RegisterStepDef - User enters Email Address
+2022-08-30 14:55:04.198 [main] INFO  stepDefinition.RegisterStepDef - User enters Password
+2022-08-30 14:55:04.395 [main] INFO  stepDefinition.RegisterStepDef - User enters Confirm Password
+2022-08-30 14:55:04.557 [main] INFO  stepDefinition.RegisterStepDef - User selects United Kingdom
+2022-08-30 14:55:04.733 [main] INFO  stepDefinition.RegisterStepDef - User enters First Name
+2022-08-30 14:55:04.910 [main] INFO  stepDefinition.RegisterStepDef - User enters Last Name
+2022-08-30 14:55:05.068 [main] INFO  stepDefinition.RegisterStepDef - User Clicks Privacy Policy For Details CheckBox
+2022-08-30 14:55:05.222 [main] INFO  stepDefinition.RegisterStepDef - User clicks the second check box about Terms of Service
+2022-08-30 14:55:25.376 [main] INFO  stepDefinition.RegisterStepDef - User clicks Join now
+2022-08-30 14:55:26.808 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
+2022-08-30 14:55:57.819 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-08-30 14:56:02.606 [main] INFO  stepDefinition.RegisterStepDef - User navigate to the website
+2022-08-30 14:56:06.229 [main] INFO  stepDefinition.RegisterStepDef - User clicks the register button
+2022-08-30 14:56:11.852 [main] INFO  stepDefinition.RegisterStepDef - User enters the name
+2022-08-30 14:56:12.084 [main] INFO  stepDefinition.RegisterStepDef - User enters Email Address
+2022-08-30 14:56:12.283 [main] INFO  stepDefinition.RegisterStepDef - User enters Password
+2022-08-30 14:56:12.465 [main] INFO  stepDefinition.RegisterStepDef - User enters Confirm Password
+2022-08-30 14:56:12.614 [main] INFO  stepDefinition.RegisterStepDef - User selects United Kingdom
+2022-08-30 14:56:12.785 [main] INFO  stepDefinition.RegisterStepDef - User enters First Name
+2022-08-30 14:56:12.974 [main] INFO  stepDefinition.RegisterStepDef - User enters Last Name
+2022-08-30 14:56:13.202 [main] INFO  stepDefinition.RegisterStepDef - User Clicks Privacy Policy For Details CheckBox
+2022-08-30 14:56:13.320 [main] INFO  stepDefinition.RegisterStepDef - User clicks the second check box about Terms of Service
+2022-08-30 14:56:33.494 [main] INFO  stepDefinition.RegisterStepDef - User clicks Join now
+2022-08-30 14:56:40.763 [main] INFO  stepDefinition.RegisterStepDef - User verifies "Welcome to the communityYour account has been created and you are signed in." message
+2022-08-30 14:57:00.826 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
+2022-08-30 23:51:19.320 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-08-30 23:51:26.863 [main] INFO  stepDefinition.RegisterStepDef - User navigate to the website
+2022-08-30 23:51:32.155 [main] INFO  stepDefinition.RegisterStepDef - User clicks the register button
+2022-08-30 23:51:39.184 [main] INFO  stepDefinition.RegisterStepDef - User enters the name
+2022-08-30 23:51:39.556 [main] INFO  stepDefinition.RegisterStepDef - User enters Email Address
+2022-08-30 23:51:39.803 [main] INFO  stepDefinition.RegisterStepDef - User enters Password
+2022-08-30 23:51:40.041 [main] INFO  stepDefinition.RegisterStepDef - User enters Confirm Password
+2022-08-30 23:51:40.264 [main] INFO  stepDefinition.RegisterStepDef - User selects United Kingdom
+2022-08-30 23:51:40.465 [main] INFO  stepDefinition.RegisterStepDef - User enters First Name
+2022-08-30 23:51:40.699 [main] INFO  stepDefinition.RegisterStepDef - User enters Last Name
+2022-08-30 23:51:40.917 [main] INFO  stepDefinition.RegisterStepDef - User Clicks Privacy Policy For Details CheckBox
+2022-08-30 23:51:41.088 [main] INFO  stepDefinition.RegisterStepDef - User clicks the second check box about Terms of Service
+2022-08-30 23:51:41.278 [main] INFO  stepDefinition.RegisterStepDef - User clicks Join now
+2022-08-30 23:51:41.481 [main] INFO  stepDefinition.RegisterStepDef - User verifies "Welcome to the communityYour account has been created and you are signed in." message
+2022-08-30 23:52:01.742 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
+2022-08-30 23:53:14.403 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-08-30 23:53:20.229 [main] INFO  stepDefinition.RegisterStepDef - User navigate to the website
+2022-08-30 23:53:25.016 [main] INFO  stepDefinition.RegisterStepDef - User clicks the register button
+2022-08-30 23:53:31.208 [main] INFO  stepDefinition.RegisterStepDef - User enters the name
+2022-08-30 23:53:31.505 [main] INFO  stepDefinition.RegisterStepDef - User enters Email Address
+2022-08-30 23:53:31.806 [main] INFO  stepDefinition.RegisterStepDef - User enters Password
+2022-08-30 23:53:32.031 [main] INFO  stepDefinition.RegisterStepDef - User enters Confirm Password
+2022-08-30 23:53:32.234 [main] INFO  stepDefinition.RegisterStepDef - User selects United Kingdom
+2022-08-30 23:53:32.433 [main] INFO  stepDefinition.RegisterStepDef - User enters First Name
+2022-08-30 23:53:32.738 [main] INFO  stepDefinition.RegisterStepDef - User enters Last Name
+2022-08-30 23:53:33.070 [main] INFO  stepDefinition.RegisterStepDef - User Clicks Privacy Policy For Details CheckBox
+2022-08-30 23:53:33.261 [main] INFO  stepDefinition.RegisterStepDef - User clicks the second check box about Terms of Service
+2022-08-30 23:53:33.510 [main] INFO  stepDefinition.RegisterStepDef - User clicks Join now
+2022-08-30 23:53:33.677 [main] INFO  stepDefinition.RegisterStepDef - User verifies "Welcome to the communityYour account has been created and you are signed in." message
+2022-08-30 23:53:53.931 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
+2022-08-30 23:54:42.445 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-08-30 23:54:48.333 [main] INFO  stepDefinition.RegisterStepDef - User navigate to the website
+2022-08-30 23:54:53.319 [main] INFO  stepDefinition.RegisterStepDef - User clicks the register button
+2022-08-30 23:54:59.492 [main] INFO  stepDefinition.RegisterStepDef - User enters the name
+2022-08-30 23:54:59.866 [main] INFO  stepDefinition.RegisterStepDef - User enters Email Address
+2022-08-30 23:55:00.224 [main] INFO  stepDefinition.RegisterStepDef - User enters Password
+2022-08-30 23:55:00.471 [main] INFO  stepDefinition.RegisterStepDef - User enters Confirm Password
+2022-08-30 23:55:00.652 [main] INFO  stepDefinition.RegisterStepDef - User selects United Kingdom
+2022-08-30 23:55:00.849 [main] INFO  stepDefinition.RegisterStepDef - User enters First Name
+2022-08-30 23:55:01.151 [main] INFO  stepDefinition.RegisterStepDef - User enters Last Name
+2022-08-30 23:55:01.410 [main] INFO  stepDefinition.RegisterStepDef - User Clicks Privacy Policy For Details CheckBox
+2022-08-30 23:55:01.575 [main] INFO  stepDefinition.RegisterStepDef - User clicks the second check box about Terms of Service
+2022-08-30 23:55:21.778 [main] INFO  stepDefinition.RegisterStepDef - User clicks Join now
+2022-08-30 23:55:24.855 [main] INFO  stepDefinition.RegisterStepDef - User verifies "Welcome to the communityYour account has been created and you are signed in." message
+2022-08-30 23:55:44.919 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
+2022-08-30 23:58:07.410 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-08-30 23:58:14.439 [main] INFO  stepDefinition.RegisterStepDef - User navigate to the website
+2022-08-30 23:58:22.131 [main] INFO  stepDefinition.RegisterStepDef - User clicks the register button
+2022-08-30 23:58:29.162 [main] INFO  stepDefinition.RegisterStepDef - User enters the name
+2022-08-30 23:58:29.660 [main] INFO  stepDefinition.RegisterStepDef - User enters Email Address
+2022-08-30 23:58:30.190 [main] INFO  stepDefinition.RegisterStepDef - User enters Password
+2022-08-30 23:58:30.479 [main] INFO  stepDefinition.RegisterStepDef - User enters Confirm Password
+2022-08-30 23:58:30.689 [main] INFO  stepDefinition.RegisterStepDef - User selects United Kingdom
+2022-08-30 23:58:30.892 [main] INFO  stepDefinition.RegisterStepDef - User enters First Name
+2022-08-30 23:58:31.254 [main] INFO  stepDefinition.RegisterStepDef - User enters Last Name
+2022-08-30 23:58:31.502 [main] INFO  stepDefinition.RegisterStepDef - User Clicks Privacy Policy For Details CheckBox
+2022-08-30 23:58:31.721 [main] INFO  stepDefinition.RegisterStepDef - User clicks the second check box about Terms of Service
+2022-08-30 23:58:51.999 [main] INFO  stepDefinition.RegisterStepDef - User clicks Join now
+2022-08-30 23:58:55.609 [main] INFO  stepDefinition.RegisterStepDef - User verifies "Welcome to the communityYour account has been created and you are signed in." message
+2022-08-30 23:59:15.676 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
+2022-08-31 00:00:09.413 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-08-31 00:00:15.270 [main] INFO  stepDefinition.RegisterStepDef - User navigate to the website
+2022-08-31 00:00:21.080 [main] INFO  stepDefinition.RegisterStepDef - User clicks the register button
+2022-08-31 00:00:27.587 [main] INFO  stepDefinition.RegisterStepDef - User enters the name
+2022-08-31 00:00:27.923 [main] INFO  stepDefinition.RegisterStepDef - User enters Email Address
+2022-08-31 00:00:28.253 [main] INFO  stepDefinition.RegisterStepDef - User enters Password
+2022-08-31 00:00:28.476 [main] INFO  stepDefinition.RegisterStepDef - User enters Confirm Password
+2022-08-31 00:00:28.694 [main] INFO  stepDefinition.RegisterStepDef - User selects United Kingdom
+2022-08-31 00:00:28.892 [main] INFO  stepDefinition.RegisterStepDef - User enters First Name
+2022-08-31 00:00:29.183 [main] INFO  stepDefinition.RegisterStepDef - User enters Last Name
+2022-08-31 00:00:29.409 [main] INFO  stepDefinition.RegisterStepDef - User Clicks Privacy Policy For Details CheckBox
+2022-08-31 00:00:29.643 [main] INFO  stepDefinition.RegisterStepDef - User clicks the second check box about Terms of Service
+2022-08-31 00:00:49.861 [main] INFO  stepDefinition.RegisterStepDef - User clicks Join now
+2022-08-31 00:00:52.983 [main] INFO  stepDefinition.RegisterStepDef - User verifies "Welcome to the communityYour account has been created and you are signed in." message
+2022-08-31 00:01:13.085 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
+2022-08-31 00:03:02.451 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-08-31 00:03:09.039 [main] INFO  stepDefinition.RegisterStepDef - User navigate to the website
+2022-08-31 00:03:16.856 [main] INFO  stepDefinition.RegisterStepDef - User clicks the register button
+2022-08-31 00:03:24.211 [main] INFO  stepDefinition.RegisterStepDef - User enters the name
+2022-08-31 00:03:24.665 [main] INFO  stepDefinition.RegisterStepDef - User enters Email Address
+2022-08-31 00:03:25.059 [main] INFO  stepDefinition.RegisterStepDef - User enters Password
+2022-08-31 00:03:25.338 [main] INFO  stepDefinition.RegisterStepDef - User enters Confirm Password
+2022-08-31 00:03:25.543 [main] INFO  stepDefinition.RegisterStepDef - User selects United Kingdom
+2022-08-31 00:03:25.778 [main] INFO  stepDefinition.RegisterStepDef - User enters First Name
+2022-08-31 00:03:25.957 [main] INFO  stepDefinition.RegisterStepDef - User enters Last Name
+2022-08-31 00:03:26.236 [main] INFO  stepDefinition.RegisterStepDef - User Clicks Privacy Policy For Details CheckBox
+2022-08-31 00:03:26.473 [main] INFO  stepDefinition.RegisterStepDef - User clicks the second check box about Terms of Service
+2022-08-31 00:03:46.727 [main] INFO  stepDefinition.RegisterStepDef - User clicks Join now
+2022-08-31 00:03:50.184 [main] INFO  stepDefinition.RegisterStepDef - User verifies "Welcome to the communityYour account has been created and you are signed in." message
+2022-08-31 00:03:50.255 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
+2022-08-31 00:04:33.596 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-08-31 00:04:39.647 [main] INFO  stepDefinition.RegisterStepDef - User navigate to the website
+2022-08-31 00:04:45.644 [main] INFO  stepDefinition.RegisterStepDef - User clicks the register button
+2022-08-31 00:04:52.200 [main] INFO  stepDefinition.RegisterStepDef - User enters the name
+2022-08-31 00:04:52.514 [main] INFO  stepDefinition.RegisterStepDef - User enters Email Address
+2022-08-31 00:04:52.765 [main] INFO  stepDefinition.RegisterStepDef - User enters Password
+2022-08-31 00:04:52.988 [main] INFO  stepDefinition.RegisterStepDef - User enters Confirm Password
+2022-08-31 00:04:53.181 [main] INFO  stepDefinition.RegisterStepDef - User selects United Kingdom
+2022-08-31 00:04:53.359 [main] INFO  stepDefinition.RegisterStepDef - User enters First Name
+2022-08-31 00:04:53.601 [main] INFO  stepDefinition.RegisterStepDef - User enters Last Name
+2022-08-31 00:04:53.852 [main] INFO  stepDefinition.RegisterStepDef - User Clicks Privacy Policy For Details CheckBox
+2022-08-31 00:04:54.011 [main] INFO  stepDefinition.RegisterStepDef - User clicks the second check box about Terms of Service
+2022-08-31 00:05:14.220 [main] INFO  stepDefinition.RegisterStepDef - User clicks Join now
+2022-08-31 00:05:17.681 [main] INFO  stepDefinition.RegisterStepDef - User verifies "Welcome to the communityYour account has been created and you are signed in." message
+2022-08-31 00:05:22.748 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
+2022-08-31 00:24:02.691 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-08-31 00:24:08.975 [main] INFO  stepDefinition.RegisterStepDef - User navigate to the website
+2022-08-31 00:24:14.357 [main] INFO  stepDefinition.RegisterStepDef - User clicks the register button
+2022-08-31 00:24:21.325 [main] INFO  stepDefinition.RegisterStepDef - User enters the name
+2022-08-31 00:24:21.719 [main] INFO  stepDefinition.RegisterStepDef - User enters Email Address
+2022-08-31 00:24:22.035 [main] INFO  stepDefinition.RegisterStepDef - User enters Password
+2022-08-31 00:24:22.298 [main] INFO  stepDefinition.RegisterStepDef - User enters Confirm Password
+2022-08-31 00:24:22.526 [main] INFO  stepDefinition.RegisterStepDef - User selects United Kingdom
+2022-08-31 00:24:22.692 [main] INFO  stepDefinition.RegisterStepDef - User enters First Name
+2022-08-31 00:24:23.086 [main] INFO  stepDefinition.RegisterStepDef - User enters Last Name
+2022-08-31 00:24:23.365 [main] INFO  stepDefinition.RegisterStepDef - User Clicks Privacy Policy For Details CheckBox
+2022-08-31 00:24:23.586 [main] INFO  stepDefinition.RegisterStepDef - User clicks the second check box about Terms of Service
+2022-08-31 00:24:43.886 [main] INFO  stepDefinition.RegisterStepDef - User clicks Join now
+2022-08-31 00:24:47.149 [main] INFO  stepDefinition.RegisterStepDef - User verifies "Welcome to the communityYour account has been created and you are signed in." message
+2022-08-31 00:24:52.226 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
+2022-08-31 00:25:43.073 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-08-31 00:25:48.550 [main] INFO  stepDefinition.RegisterStepDef - User navigate to the website
+2022-08-31 00:25:53.473 [main] INFO  stepDefinition.RegisterStepDef - User clicks the register button
+2022-08-31 00:25:59.367 [main] INFO  stepDefinition.RegisterStepDef - User enters the name
+2022-08-31 00:25:59.776 [main] INFO  stepDefinition.RegisterStepDef - User enters Email Address
+2022-08-31 00:26:00.079 [main] INFO  stepDefinition.RegisterStepDef - User enters Password
+2022-08-31 00:26:00.310 [main] INFO  stepDefinition.RegisterStepDef - User enters Confirm Password
+2022-08-31 00:26:00.526 [main] INFO  stepDefinition.RegisterStepDef - User selects United Kingdom
+2022-08-31 00:26:00.787 [main] INFO  stepDefinition.RegisterStepDef - User enters First Name
+2022-08-31 00:26:01.039 [main] INFO  stepDefinition.RegisterStepDef - User enters Last Name
+2022-08-31 00:26:01.251 [main] INFO  stepDefinition.RegisterStepDef - User Clicks Privacy Policy For Details CheckBox
+2022-08-31 00:26:01.427 [main] INFO  stepDefinition.RegisterStepDef - User clicks the second check box about Terms of Service
+2022-08-31 00:26:21.619 [main] INFO  stepDefinition.RegisterStepDef - User clicks Join now
+2022-08-31 00:26:24.992 [main] INFO  stepDefinition.RegisterStepDef - User verifies "Welcome to the communityYour account has been created and you are signed in." message
+2022-08-31 00:26:30.065 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
