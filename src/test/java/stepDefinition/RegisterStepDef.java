@@ -126,7 +126,7 @@ public class RegisterStepDef {
 
     @When("user clicks Join now")
     public void user_clicks_join_now()  {
-        MyUtlities.sleep(20);
+        MyUtlities.sleep(10);
         logger.info("User clicks Join now");
         registerPage.joinNowButton.click();
 
