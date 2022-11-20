@@ -632,3 +632,30 @@
 2022-11-20 00:23:03.103 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
 2022-11-20 00:31:22.825 [main] INFO  stepDefinition.Hooks - This is where tests are starting
 2022-11-20 00:32:02.598 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
+2022-11-20 12:49:44.604 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-11-20 12:50:10.524 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
+2022-11-20 12:50:25.995 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-11-20 12:50:51.689 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
+2022-11-20 12:58:43.341 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-11-20 12:58:48.715 [main] INFO  stepDefinition.ProducatStepsDef - the user on the login page
+2022-11-20 12:58:51.848 [main] INFO  stepDefinition.ProducatStepsDef - the user accept the cookies
+2022-11-20 12:58:54.412 [main] INFO  stepDefinition.ProducatStepsDef - the user clicks the login button
+2022-11-20 12:58:54.481 [main] INFO  stepDefinition.ProducatStepsDef - the user clicks the login button
+2022-11-20 12:58:54.557 [main] INFO  stepDefinition.ProducatStepsDef - user enters the password
+2022-11-20 12:59:05.979 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
+2022-11-20 12:59:13.926 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-11-20 12:59:18.295 [main] INFO  stepDefinition.ProducatStepsDef - the user on the login page
+2022-11-20 12:59:21.403 [main] INFO  stepDefinition.ProducatStepsDef - the user accept the cookies
+2022-11-20 12:59:21.912 [main] INFO  stepDefinition.ProducatStepsDef - the user clicks the login button
+2022-11-20 12:59:24.109 [main] INFO  stepDefinition.ProducatStepsDef - the user clicks the login button
+2022-11-20 12:59:24.190 [main] INFO  stepDefinition.ProducatStepsDef - user enters the password
+2022-11-20 12:59:36.218 [main] INFO  stepDefinition.ProducatStepsDef - user click on the sign button
+2022-11-20 12:59:39.298 [main] INFO  stepDefinition.ProducatStepsDef - user is on the home page
+2022-11-20 12:59:39.300 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
+2022-11-20 13:00:52.877 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-11-20 13:00:57.149 [main] INFO  stepDefinition.ProducatStepsDef - the user on the login page
+2022-11-20 13:01:00.265 [main] INFO  stepDefinition.ProducatStepsDef - the user accept the cookies
+2022-11-20 13:01:02.808 [main] INFO  stepDefinition.ProducatStepsDef - the user clicks the login button
+2022-11-20 13:01:02.886 [main] INFO  stepDefinition.ProducatStepsDef - the user clicks the login button
+2022-11-20 13:01:02.974 [main] INFO  stepDefinition.ProducatStepsDef - user enters the password
+2022-11-20 13:01:14.309 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
