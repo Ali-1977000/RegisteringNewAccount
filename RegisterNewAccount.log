@@ -659,3 +659,21 @@
 2022-11-20 13:01:02.886 [main] INFO  stepDefinition.ProducatStepsDef - the user clicks the login button
 2022-11-20 13:01:02.974 [main] INFO  stepDefinition.ProducatStepsDef - user enters the password
 2022-11-20 13:01:14.309 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
+2022-11-20 13:07:03.833 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-11-20 13:07:09.339 [main] INFO  stepDefinition.ProducatStepsDef - the user on the login page
+2022-11-20 13:07:12.452 [main] INFO  stepDefinition.ProducatStepsDef - the user accept the cookies
+2022-11-20 13:07:14.461 [main] INFO  stepDefinition.ProducatStepsDef - the user clicks the login button
+2022-11-20 13:07:14.549 [main] INFO  stepDefinition.ProducatStepsDef - the user clicks the login button
+2022-11-20 13:07:14.616 [main] INFO  stepDefinition.ProducatStepsDef - user enters the password
+2022-11-20 13:07:26.549 [main] INFO  stepDefinition.ProducatStepsDef - user click on the sign button
+2022-11-20 13:07:29.630 [main] INFO  stepDefinition.ProducatStepsDef - user is on the home page
+2022-11-20 13:07:29.630 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
+2022-11-20 13:14:30.234 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-11-20 13:14:34.724 [main] INFO  stepDefinition.ProducatStepsDef - the user on the login page
+2022-11-20 13:14:37.830 [main] INFO  stepDefinition.ProducatStepsDef - the user accept the cookies
+2022-11-20 13:14:40.172 [main] INFO  stepDefinition.ProducatStepsDef - the user clicks the login button
+2022-11-20 13:14:40.243 [main] INFO  stepDefinition.ProducatStepsDef - the user clicks the login button
+2022-11-20 13:14:40.316 [main] INFO  stepDefinition.ProducatStepsDef - user enters the password
+2022-11-20 13:14:52.706 [main] INFO  stepDefinition.ProducatStepsDef - user click on the sign button
+2022-11-20 13:14:55.801 [main] INFO  stepDefinition.ProducatStepsDef - user is on the home page
+2022-11-20 13:14:55.804 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
