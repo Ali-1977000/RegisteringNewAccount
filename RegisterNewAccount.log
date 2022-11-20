@@ -659,3 +659,21 @@
 2022-11-20 13:01:02.886 [main] INFO  stepDefinition.ProducatStepsDef - the user clicks the login button
 2022-11-20 13:01:02.974 [main] INFO  stepDefinition.ProducatStepsDef - user enters the password
 2022-11-20 13:01:14.309 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
+2022-11-20 15:53:51.539 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-11-20 15:53:59.826 [main] INFO  stepDefinition.ProducatStepsDef - the user on the login page
+2022-11-20 15:54:03.000 [main] INFO  stepDefinition.ProducatStepsDef - the user accept the cookies
+2022-11-20 15:54:06.405 [main] INFO  stepDefinition.ProducatStepsDef - the user clicks the login button
+2022-11-20 15:54:06.730 [main] INFO  stepDefinition.ProducatStepsDef - the user clicks the login button
+2022-11-20 15:54:06.963 [main] INFO  stepDefinition.ProducatStepsDef - user enters the password
+2022-11-20 15:54:19.871 [main] INFO  stepDefinition.ProducatStepsDef - user click on the sign button
+2022-11-20 15:54:22.949 [main] INFO  stepDefinition.ProducatStepsDef - user is on the home page
+2022-11-20 15:54:22.951 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
+2022-11-20 15:57:35.692 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-11-20 15:57:43.296 [main] INFO  stepDefinition.LiveStepsDef - the user on the login page
+2022-11-20 15:57:46.483 [main] INFO  stepDefinition.LiveStepsDef - the user accept the cookies
+2022-11-20 15:57:49.647 [main] INFO  stepDefinition.LiveStepsDef - the user clicks the login button
+2022-11-20 15:57:49.915 [main] INFO  stepDefinition.LiveStepsDef - the user clicks the login button
+2022-11-20 15:57:50.130 [main] INFO  stepDefinition.LiveStepsDef - user enters the password
+2022-11-20 15:58:11.362 [main] INFO  stepDefinition.LiveStepsDef - user click on the sign button
+2022-11-20 15:58:14.439 [main] INFO  stepDefinition.LiveStepsDef - user is on the home page
+2022-11-20 15:58:14.441 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
