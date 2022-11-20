@@ -735,3 +735,55 @@
 2022-11-20 23:11:59.607 [main] INFO  stepDefinition.LiveStepsDef - user enters the password
 2022-11-20 23:12:12.304 [main] INFO  stepDefinition.LiveStepsDef - user click on the sign button
 2022-11-20 23:12:14.658 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
+2022-11-20 23:17:46.712 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-11-20 23:17:50.988 [main] INFO  stepDefinition.LiveStepsDef - the user on the login page
+2022-11-20 23:17:54.116 [main] INFO  stepDefinition.LiveStepsDef - the user accept the cookies
+2022-11-20 23:17:56.756 [main] INFO  stepDefinition.LiveStepsDef - the user clicks the login button
+2022-11-20 23:17:56.822 [main] INFO  stepDefinition.LiveStepsDef - the user clicks the login button
+2022-11-20 23:17:56.889 [main] INFO  stepDefinition.LiveStepsDef - user enters the password
+2022-11-20 23:18:09.549 [main] INFO  stepDefinition.LiveStepsDef - user click on the sign button
+2022-11-20 23:18:19.985 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
+2022-11-20 23:20:35.466 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-11-20 23:20:39.666 [main] INFO  stepDefinition.LiveStepsDef - the user on the login page
+2022-11-20 23:20:42.795 [main] INFO  stepDefinition.LiveStepsDef - the user accept the cookies
+2022-11-20 23:20:45.107 [main] INFO  stepDefinition.LiveStepsDef - the user clicks the login button
+2022-11-20 23:20:45.189 [main] INFO  stepDefinition.LiveStepsDef - the user clicks the login button
+2022-11-20 23:20:45.257 [main] INFO  stepDefinition.LiveStepsDef - user enters the password
+2022-11-20 23:20:57.132 [main] INFO  stepDefinition.LiveStepsDef - user click on the sign button
+2022-11-20 23:21:07.350 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
+2022-11-20 23:23:05.288 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-11-20 23:23:09.768 [main] INFO  stepDefinition.LiveStepsDef - the user on the login page
+2022-11-20 23:23:12.892 [main] INFO  stepDefinition.LiveStepsDef - the user accept the cookies
+2022-11-20 23:23:15.073 [main] INFO  stepDefinition.LiveStepsDef - the user clicks the login button
+2022-11-20 23:23:15.120 [main] INFO  stepDefinition.LiveStepsDef - the user clicks the login button
+2022-11-20 23:23:15.201 [main] INFO  stepDefinition.LiveStepsDef - user enters the password
+2022-11-20 23:23:26.568 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
+2022-11-20 23:23:36.744 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-11-20 23:23:41.220 [main] INFO  stepDefinition.LiveStepsDef - the user on the login page
+2022-11-20 23:23:44.340 [main] INFO  stepDefinition.LiveStepsDef - the user accept the cookies
+2022-11-20 23:23:46.978 [main] INFO  stepDefinition.LiveStepsDef - the user clicks the login button
+2022-11-20 23:23:47.043 [main] INFO  stepDefinition.LiveStepsDef - the user clicks the login button
+2022-11-20 23:23:47.117 [main] INFO  stepDefinition.LiveStepsDef - user enters the password
+2022-11-20 23:23:58.545 [main] INFO  stepDefinition.LiveStepsDef - user click on the sign button
+2022-11-20 23:24:08.799 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
+2022-11-20 23:25:00.520 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-11-20 23:25:04.635 [main] INFO  stepDefinition.LiveStepsDef - the user on the login page
+2022-11-20 23:25:07.750 [main] INFO  stepDefinition.LiveStepsDef - the user accept the cookies
+2022-11-20 23:25:09.828 [main] INFO  stepDefinition.LiveStepsDef - the user clicks the login button
+2022-11-20 23:25:09.910 [main] INFO  stepDefinition.LiveStepsDef - the user clicks the login button
+2022-11-20 23:25:09.977 [main] INFO  stepDefinition.LiveStepsDef - user enters the password
+2022-11-20 23:25:21.445 [main] INFO  stepDefinition.LiveStepsDef - user click on the sign button
+2022-11-20 23:25:31.714 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
+2022-11-20 23:40:08.325 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-11-20 23:40:12.706 [main] INFO  stepDefinition.LiveStepsDef - the user on the login page
+2022-11-20 23:40:15.818 [main] INFO  stepDefinition.LiveStepsDef - the user accept the cookies
+2022-11-20 23:40:18.398 [main] INFO  stepDefinition.LiveStepsDef - the user clicks the login button
+2022-11-20 23:40:28.564 [main] INFO  stepDefinition.Hooks - This is where tests are finishing
+2022-11-20 23:49:36.210 [main] INFO  stepDefinition.Hooks - This is where tests are starting
+2022-11-20 23:49:40.499 [main] INFO  stepDefinition.LiveStepsDef - the user on the login page
+2022-11-20 23:49:43.600 [main] INFO  stepDefinition.LiveStepsDef - the user accept the cookies
+2022-11-20 23:49:46.233 [main] INFO  stepDefinition.LiveStepsDef - the user clicks the login button
+2022-11-20 23:49:46.300 [main] INFO  stepDefinition.LiveStepsDef - the user clicks the login button
+2022-11-20 23:49:46.361 [main] INFO  stepDefinition.LiveStepsDef - user enters the password
+2022-11-20 23:49:58.104 [main] INFO  stepDefinition.LiveStepsDef - user click on the sign button
+2022-11-20 23:50:17.053 [main] INFO  stepDefinition.Hooks - This is where tests are finishing

@@ -20,6 +20,8 @@ public class LiveHomePageLoad {
 
     @FindBy(xpath = "//input[@id='fragment-3283_username']")
     public WebElement signinName;
+//    @FindBy(xpath = "//*[@id=fragment-3283]/div[1]/form/fieldset/ul/li[2]/span[1]/label")
+//    public WebElement emailAddress;
 
     @FindBy(xpath = "//input[@id='fragment-3283_password']")
     public WebElement password;
