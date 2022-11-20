@@ -1,7 +1,7 @@
 Feature: User on the Homepage
 @wip
+  ##1 The home page (does it load,etc.)
   Scenario: Verify that after sign in we should be able to see homepage loading properly
-
   Given user navigate to login page
   Then the user on the login page
   And the user accept the cookies
