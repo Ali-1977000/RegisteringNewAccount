@@ -26,7 +26,6 @@ public class LiveHomePageLoad {
 
     @FindBy(xpath = "//span[@class='recaptcha-checkbox goog-inline-block recaptcha-checkbox-unchecked rc-anchor-checkbox']")
     public WebElement reCaptcha;
-    ////span[@class='recaptcha-checkbox goog-inline-block recaptcha-checkbox-unchecked rc-anchor-checkbox']
 
     @FindBy(xpath = "//a[@class='internal-link login submit-button button']")
     public WebElement signIn;
