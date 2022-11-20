@@ -53,8 +53,9 @@ public class LiveStepsDef {
     }
 //    @And("user clicks on the recaptcha")
 //    public void userClicksOnTheRecaptcha() {
-//        MyUtlities.waitForVisibility(producat.reCaptcha,20);
-//        producat.reCaptcha.click();
+//       // MyUtlities.waitForVisibility(producat.reCaptcha,20);
+//       // producat.reCaptcha.click();
+//        MyUtlities.
 //    }
     @Then("user is on the home page")
     public void user_is_on_the_home_page() {
