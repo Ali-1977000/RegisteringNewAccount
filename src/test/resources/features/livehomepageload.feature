@@ -15,7 +15,8 @@ Feature: User on the Homepage
   ##1 The home page (does it load,etc.)
   Scenario: Verify that after sign in we should be able to see homepage loading properly
     Then user is on the home page
-  #@wip
+
+  @wip
   Scenario: User can see the notifications
     ##2 Notifications(https://community.element14.com/user/nptificatons)
 
@@ -24,12 +25,12 @@ Feature: User on the Homepage
     Then user can see Your Notifications
 
     ##3 https://community.element14.com/administration?returnUrl=%2Fuser%2Fnotifications#_aptype=panel&_appanelid=bbab8f4a-2b6f-413e-94e3-e0271ad8067c
-    @wip
+    #@wip
   Scenario: Admin can see the console Moderation page
 
 
-      Given Admin clicks the console button
-      And Admin clicks the Moderation button
-      Then Admin can see the Moderation Queue
+    Given Admin clicks the console button
+    And Admin clicks the Moderation button
+    Then Admin can see the Moderation Queue
 
 

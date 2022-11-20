@@ -13,11 +13,13 @@ public class NotificationStepDef {
         notificationPage.notificationButton.click();
 
     }
+
     @Given("user clicks on view all button")
     public void user_clicks_on_view_all_button() {
         notificationPage.viewAllButton.click();
 
     }
+
     @Then("user can see Your Notifications")
     public void user_can_see_your_notifications() {
 
