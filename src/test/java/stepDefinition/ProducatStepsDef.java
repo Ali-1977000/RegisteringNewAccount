@@ -6,6 +6,7 @@ import org.apache.logging.log4j.Logger;
 import org.junit.Assert;
 import org.openqa.selenium.WebElement;
 import pages.Producat;
+import utilities.ConfigurationReader;
 import utilities.Driver;
 import utilities.MyUtlities;
 
@@ -18,7 +19,7 @@ public class ProducatStepsDef {
     Producat producat = new Producat();
     @Given("user navigate to login page")
     public void user_navigate_to_login_page() {
-        Driver.get().get("https://community.element14.com/");
+        Driver.get().get(ConfigurationReader.get("elemnt14Url"));
     }
     @Then("the user on the login page")
     public void the_user_on_the_login_page() {
