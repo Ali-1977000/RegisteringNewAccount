@@ -26,6 +26,8 @@ public class NotificationStepDef {
         String actual = "Your Notifications";
         String expected = notificationPage.yourNotificationsTitle.getText();
         Assert.assertEquals(actual, expected);
+        System.out.println("expected = " + expected);
+        System.out.println("actual = " + actual);
 
     }
 

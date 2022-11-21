@@ -33,26 +33,5 @@ public class MyUtlities {
         return wait.until(ExpectedConditions.visibilityOf(element));
     }
 
-    public static void main(String[] args) {
 
-        System.setProperty("webdriver.chrome.driver", "C:\\Utility\\BrowserDrivers\\chromedriver.exe");
-
-        ChromeOptions options = new ChromeOptions();
-
-        options.addArguments("start-maximized");
-
-        options.addArguments("disable-infobars");
-
-        options.addArguments("--disable-extensions");
-
-        WebDriver driver = new ChromeDriver(options);
-
-        driver.get("https://community.element14.com/");
-
-        new WebDriverWait(driver, 10).until(ExpectedConditions.frameToBeAvailableAndSwitchToIt(By.xpath("//span[@class='recaptcha-checkbox goog-inline-block recaptcha-checkbox-unchecked rc-anchor-checkbox'], 'https://www.google.com/recaptcha')]")));
-
-        new WebDriverWait(driver, 20).until(ExpectedConditions.elementToBeClickable(By.cssSelector("div.recaptcha-checkbox-checkmark"))).click();
-
-
-    }
 }
